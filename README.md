@@ -1,1 +1,6 @@
-# Power-BI
+The project contains data analayzed for a non-existent company, Adventure Works. Adventure Works is a global manufacturing company that produces cycling equipment and acessories. We are given a folder of raw csv files, which contain information about transactions, returns, products, customers, and sales territories.
+
+Our objective of using Power BI is to connect and transform raw data, build a relational data model, create calculated columns and measures with DAX, and design an interactive dashboard to visualize data. We have created an interactive dashboard that will help the employees of Advenure Works understand their data better. The employees can access various kinds of information such as the number of orders recieved per various income levels of the customer, the number of orders per various occupations, the Top 100 customers by revenue and orders.
+
+The company will also be able to analyze various metrics such as revenue, orders, profits and returns on a montly basis, and will be able to predict the future revenue, orders, and profits. The dashboard also gives information regarding the most sold product, and the most returned product, and the top 10 products by revenue.
+All these metrics displayed in the dashboard will only help the company get more efficient in due time. 
